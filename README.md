@@ -168,8 +168,8 @@ python monitor.py
 
 ---
 
-⚖️ Legal & Ethical Use Statement
-This project is strictly intended for educational, research, and technical demonstration purposes only. I do not endorse, promote, or engage in any illegal activities, nor do I condone misuse of the dark web or its services. Any actions taken using this toolkit are the sole responsibility of the end user. I, as the creator, disclaim all liability for any unlawful use, and I strongly urge compliance with all applicable laws and ethical guidelines. Use responsibly, at your own risk.
+## ⚖️ Legal & Ethical Use Statement
+**This project is strictly intended for educational, research, and technical demonstration purposes only. I do not endorse, promote, or engage in any illegal activities, nor do I condone misuse of the dark web or its services. Any actions taken using this toolkit are the sole responsibility of the end user. I, as the creator, disclaim all liability for any unlawful use, and I strongly urge compliance with all applicable laws and ethical guidelines. Use responsibly, at your own risk.**
 
 ---
 
