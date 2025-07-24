@@ -1,15 +1,15 @@
 # Dark Web Search, Analysis, and Monitoring Toolkit
 
 <details>
-  <summary>Application</summary>
+  <summary>Main_Script to crawl the darkweb</summary>
 
-  ![RayTracerNG Banner 1](https://github.com/Nischaya008/RayTracerNG/blob/main/RayTracerNG_Assets/Screenshot%202025-04-12%20175423.png)
+  ![NightCrawlerNG Banner 1](https://github.com/Nischaya008/Image_hosting/blob/main/Screenshot%202025-07-23%20232018.png)
 </details>
 
 <details>
-  <summary>Website</summary>
+  <summary>Model Conversations</summary>
 
-  ![RayTracerNG Banner 2](https://github.com/Nischaya008/RayTracerNG/blob/main/RayTracerNG_Assets/Screenshot%202025-04-13%20202525.png)
+  ![NightCrawlerNG Banner 2](https://github.com/Nischaya008/Image_hosting/blob/main/Screenshot%202025-07-23%20232505.png)
 </details>
 
 A comprehensive Python-based solution for searching, analyzing, and monitoring .onion (dark web) sites using the Tor network. This toolkit enables ethical cybersecurity researchers and analysts to explore the hidden web with anonymity and automation.
